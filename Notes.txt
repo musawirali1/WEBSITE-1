@@ -1,0 +1,27 @@
+Liver server ___ ctrl+shift+P
+
+a tag mdn : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+
+
+for Duplication : alt+hift + arrow down
+
+for paragraph : p>lorem30 
+
+<pre> tage use for poen lines space 
+
+
+Comment a line : ctrl+/ 
+
+
+  *****Formating******
+for bold : <strong> and <b>
+for Italic : <i> 
+
+<sub> is use for lower power
+<sup> is use for exponential power
+<mark> is use to hightlight any varible
+<del> is use tO cross any vari
+
+Table:
+
+table>tr>th*1,2,3,4
